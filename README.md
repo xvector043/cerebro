@@ -1,5 +1,4 @@
-# cerebro
-Dsg data submission
+
 for predicting snow depth,first using X.describe() to check the missing data and 
 1.these missing values  may be removed
 2.mean values of the row should be entered in the missing  values
